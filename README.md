@@ -1,2 +1,2 @@
-# student_monthly_budget_analyzer.py
+# student_monthly_budget_analyzer
 Python program to calculate student monthly expenses and remaining balance.
